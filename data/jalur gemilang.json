@@ -8,5 +8,11 @@
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
+        {
+            "user": "KayZee",
+            "link": "https://youtu.be/JsMBnCa9laY?si=ZGir_z5Ihv5ZrzYR&t=208",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
