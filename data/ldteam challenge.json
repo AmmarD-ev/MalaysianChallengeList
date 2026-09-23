@@ -3,16 +3,10 @@
     "name": "ldteam challenge",
     "author": "Arisaa",
     "creators": ["Arisaa"],
-    "verifier": "Arisaa",
-    "verification": "https://youtu.be/HWA5L57Nu5M?si=dn05irfhxRs3Xphc",
+    "verifier": "EbattG",
+    "verification": "https://youtu.be/3R39eC_J29E?si=4HlqEe-3GdxVddSR&t=558",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "EbattG",
-            "link": "https://youtu.be/3R39eC_J29E?si=4HlqEe-3GdxVddSR&t=558",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
