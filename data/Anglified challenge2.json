@@ -3,21 +3,11 @@
     "name": "Anglified challenge2",
     "author": "Upsilonic",
     "creators": ["Upsilonic"],
-    "verifier": "Upsilonic",
+    "verifier": "Anglified",
     "verification": "https://youtu.be/Osqmn3R3bsM?si=7N8YrCwMak8HrVNY",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "Anglified",
-            "link": "https://youtu.be/2QXhquHEJ-I?t=4449",
-            "percent": 100
-        },
-        {
-            "user": "KayZee",
-            "link": "https://youtu.be/qBEhCw2uKew",
-            "percent": 100
-        },
         {
             "user": "TheBaguetteLord",
             "link": "https://www.youtube.com/watch?v=reYMSpJTxjE",
@@ -29,11 +19,6 @@
             "link": "https://youtu.be/E7n4vpvrAcE",
             "percent": 100,
             "hz": 144
-        },
-        {
-            "user": "Machitann",
-            "percent": 100,
-            "hz": 60
         },
         {
             "user": "XxrobrubxX",
