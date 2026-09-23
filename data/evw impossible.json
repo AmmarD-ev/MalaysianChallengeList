@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "EbattG",
+            "link": "https://youtu.be/3R39eC_J29E?si=AFulEKYMmdMHZFo2&t=312",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
