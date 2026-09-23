@@ -3,16 +3,10 @@
     "name": "Anglified Challenge (MADxSG)",
     "author": "MADxSG",
     "creators": ["MADxSG"],
-    "verifier": "MADxSG",
-    "verification": "https://youtu.be/uu1636SEZV0?si=_q6d8cF7BJt3q36E",
+    "verifier": "EbattG",
+    "verification": "https://youtu.be/aieuGJSVU9E?si=WsgbvcZdyrc1H5Vl&t=305",
     "percentToQualify": "100",
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "EbattG",
-            "link": "https://youtu.be/aieuGJSVU9E?si=WsgbvcZdyrc1H5Vl&t=305",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
