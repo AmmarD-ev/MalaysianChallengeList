@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "001957",
     "records": [
+        {
+            "user": "EbattG",
+            "link": "https://youtu.be/tK0ivaVrjl0?si=Q_pv80MTYL3W44L4&t=142",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
