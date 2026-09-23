@@ -2,7 +2,7 @@
     "id": 78487450,
     "name": "Virgin Safari",
     "author": "Anglified",
-    "creators": ["Anglified"],
+    "creators": ["Anglified", "NotLukh"],
     "verifier": "KobaGD",
     "verification": "https://youtu.be/u44VqWqOE1M?si=zQ5E-cIeDKIne4sM",
     "percentToQualify": 100,
@@ -12,6 +12,12 @@
             "user": "BabunEbatt",
             "link": "https://youtu.be/arUAPEA7FsU?si=ySUlWdFP9sRPvYe7",
             "percent": 100
+        },
+        {
+            "user": "zSkrubzy",
+            "link": "https://www.youtube.com/watch?v=wQzQEkfN-6c",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
