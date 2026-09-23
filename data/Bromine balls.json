@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "069420",
     "records": [
+        {
+            "user": "TheBaguetteLord",
+            "link": "https://www.youtube.com/watch?v=CWZoW89vFKs",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
