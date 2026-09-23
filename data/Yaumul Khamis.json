@@ -4,15 +4,9 @@
     "author": "KayZee",
     "creators": ["KayZee"],
     "verifier": "Amerk",
-    "verification": "https://youtu.be/X3ouzS_uewc?si=1LBnlZbwvrrGnkjh",
+    "verification": "https://www.youtube.com/watch?v=ar7tpL_QXEI",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "Amerk",
-            "link": "https://www.youtube.com/watch?v=ar7tpL_QXEI",
-            "percent": 100,
-            "hz": 330
-        }
     ]
 }
