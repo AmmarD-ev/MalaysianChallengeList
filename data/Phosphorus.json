@@ -3,16 +3,10 @@
     "name": "Phosphorus",
     "author": "KayZee",
     "creators": ["KayZee"],
-    "verifier": "KayZee",
-    "verification": "https://youtu.be/m4Z-ljHiXnY?si=E_1wvgolZXfCdbB2",
+    "verifier": "EbattG",
+    "verification": "https://youtu.be/3R39eC_J29E?si=m8kkPV55ApvlAqbh&t=48",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "EbattG",
-            "link": "https://youtu.be/3R39eC_J29E?si=m8kkPV55ApvlAqbh&t=48",
-            "percent": 100,
-            "hz": 60
-        }
     ]
 }
